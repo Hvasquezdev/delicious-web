@@ -4,6 +4,7 @@
 
 $black: #2e2e2e !default;
 $black-two: #333333 !default;
+$black-three: #242424 !default;
 $brown-grey: #999999 !default;
 $white: #f6f6f6 !default;
 $primary-green: #65a605;
@@ -45,6 +46,7 @@ $letter-spacing-lg: 1.1px;
 // Line Heights
 // -----------------------------------------------------------------------------
 
+$line-height-ss: 12px;
 $line-height-s: 24px;
 $line-height-md: 36px;
 $line-height-lg: 44px;
@@ -60,4 +62,5 @@ $breakpoints: (
   "medium": 768px,
   "large": 940px,
   "extra-large": 1280px,
+  "hd-desktop": 1680px,
 ) !default;
